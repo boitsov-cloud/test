@@ -1,0 +1,1 @@
+print("dorogu osilit idushiy")
