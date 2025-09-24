@@ -1,1 +1,0 @@
-print("memento mori")
